@@ -1,1 +1,3 @@
-key1: cloud-config-server1-release
+key1: 192.168.100.2
+
+ip: '{cipher}e4037993cdcb95619e4d69cef6e8e2e370af18ce320499109990b5317d79daf0'
